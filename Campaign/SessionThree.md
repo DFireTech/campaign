@@ -1,5 +1,5 @@
 # Session Three
-##Dagoba Commons Tourney
+## Dagoba Commons Tourney
 *We begin this session with the party headed to the local shrine as a save point*
 
 ### The Shrine
@@ -76,5 +76,98 @@ First round sees Jon and Reiz handily defeating their opponents
 *Firion is a nimble hammer-wielder. He follows in the footsteps of his 'God' and intends to make good on the stories he has heard of Uril*
 
 
+*Niall, Traitor of Ghestis*
+10 Vit (1d10)
+
+|Stat|Total|
+|:--|:--:|
+|STR|4|
+|WIL|2|
+|DEX|6|
+
+*Niall has gotten here by luck. Somehow, all of his opponents have just lost to him*
+
+
+*Naz'Ith, Pseudo Lich*
+14 Vit (2d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|4|
+|WIL|7|
+|DEX|3|
+
+*Keil, the Town Drunk*
+11 Vit (2d10)
+|Stat|Total|
+|:--:|:--:|
+|STR|9|
+|WIL|2|
+|DEX|2|
+
+
+*Frances, Enraged*
+9 Vit (1d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|12|
+|WIL|1|
+|DEX|1|
+
+
+*Daimyo, Demihuman*
+13 Vit (2d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|6|
+|WIL|6|
+|DEX|6|
+
+*Ultreth, Ever Powerful*
+14 Vit (2d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|8|
+|WIL|7|
+|DEX|3|
+
+*Ezra, Who Tempts Fate*
+9 Vit  (1d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|4|
+|WIL|10|
+|DEX|8|
+
+*Jax, Man of Steel*
+14 Vit (2d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|9|
+|WIL|7|
+|DEX|6|
+
+*Atmos, God of Men*
+19 Vit (3d10)
+
+|Stat|Total|
+|:--:|:--:|
+|STR|9|
+|WIL|9|
+|DEX|3|
+
+*The House that Jon Built*
+75 Vit (8d10)
+
+|Stat|Total|
+|:--|:--:|
+|STR|10|
+|WIL|10|
+|DEX|0|
 
 
